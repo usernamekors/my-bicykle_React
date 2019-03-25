@@ -1,14 +1,19 @@
 {
-  "main.css": "/my-bicykle_React/static/css/main.c9828b36.chunk.css",
-  "main.js": "/my-bicykle_React/static/js/main.1955d07e.chunk.js",
-  "main.js.map": "/my-bicykle_React/static/js/main.1955d07e.chunk.js.map",
+  "main.css": "/my-bicykle_React/static/css/main.b44256c1.chunk.css",
+  "main.js": "/my-bicykle_React/static/js/main.417c93e0.chunk.js",
+  "main.js.map": "/my-bicykle_React/static/js/main.417c93e0.chunk.js.map",
   "runtime~main.js": "/my-bicykle_React/static/js/runtime~main.72778053.js",
   "runtime~main.js.map": "/my-bicykle_React/static/js/runtime~main.72778053.js.map",
-  "static/js/2.2e17bc77.chunk.js": "/my-bicykle_React/static/js/2.2e17bc77.chunk.js",
-  "static/js/2.2e17bc77.chunk.js.map": "/my-bicykle_React/static/js/2.2e17bc77.chunk.js.map",
+  "static/js/2.d3960c6a.chunk.js": "/my-bicykle_React/static/js/2.d3960c6a.chunk.js",
+  "static/js/2.d3960c6a.chunk.js.map": "/my-bicykle_React/static/js/2.d3960c6a.chunk.js.map",
   "index.html": "/my-bicykle_React/index.html",
-  "precache-manifest.934415060832989869a43112f05c175f.js": "/my-bicykle_React/precache-manifest.934415060832989869a43112f05c175f.js",
+  "precache-manifest.8cf4a50971ddb16a4f57f44e9f6e2b32.js": "/my-bicykle_React/precache-manifest.8cf4a50971ddb16a4f57f44e9f6e2b32.js",
   "service-worker.js": "/my-bicykle_React/service-worker.js",
-  "static/css/main.c9828b36.chunk.css.map": "/my-bicykle_React/static/css/main.c9828b36.chunk.css.map",
-  "static/media/header.jpg": "/my-bicykle_React/static/media/header.64442bbf.jpg"
+  "static/css/main.b44256c1.chunk.css.map": "/my-bicykle_React/static/css/main.b44256c1.chunk.css.map",
+  "static/media/bicycle.jpg": "/my-bicykle_React/static/media/bicycle.e063e14f.jpg",
+  "static/media/cycling-forest.jpg": "/my-bicykle_React/static/media/cycling-forest.2a2b97db.jpg",
+  "static/media/header.jpg": "/my-bicykle_React/static/media/header.64442bbf.jpg",
+  "static/media/mountain-bike.jpg": "/my-bicykle_React/static/media/mountain-bike.8c43bd26.jpg",
+  "static/media/mountain-biking.jpg": "/my-bicykle_React/static/media/mountain-biking.2c53c1c7.jpg",
+  "static/media/snow-bike.jpg": "/my-bicykle_React/static/media/snow-bike.720be740.jpg"
 }

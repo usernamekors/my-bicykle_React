@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/my-bicykle_React/precache-manifest.934415060832989869a43112f05c175f.js"
+  "/my-bicykle_React/precache-manifest.8cf4a50971ddb16a4f57f44e9f6e2b32.js"
 );
 
 workbox.clientsClaim();
