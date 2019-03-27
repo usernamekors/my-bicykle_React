@@ -43,22 +43,22 @@ class Equipment extends Component {
                 <p style={myServicesH2}>Equipment</p>
                 <Slider {...settings}>
                     <div>
-                        <h3><img src={Bicycle} /></h3>
+                        <h3><img src={Bicycle} alt='Bike' /></h3>
                     </div>
                     <div>
-                        <h3><img src={Cycling} /></h3>
+                        <h3><img src={Cycling} alt='Bike' /></h3>
                     </div>
                     <div>
-                        <h3><img src={Bike} /></h3>
+                        <h3><img src={Bike} alt='Bike' /></h3>
                     </div>
                     <div>
-                        <h3><img src={Bicycle} /></h3>
+                        <h3><img src={Bicycle} alt='Bike' /></h3>
                     </div>
                     <div>
-                        <h3><img src={Biking} /></h3>
+                        <h3><img src={Biking} alt='Bike' /></h3>
                     </div>
                     <div>
-                        <h3><img src={Snow} /></h3>
+                        <h3><img src={Snow} alt='Bike' /></h3>
                     </div>
                 </Slider>
             </div >

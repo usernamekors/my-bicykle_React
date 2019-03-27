@@ -34,7 +34,7 @@ const myStyles = {
 
 class Navigation extends Component {
     render() {
-        const sections = ['Home', 'About', 'Equipment', 'Map', 'Contact'];
+        const sections = ['Home', 'About', 'Equipment', 'Account', 'Map'];
 
         const navLinks = sections.map(section => {
             return (

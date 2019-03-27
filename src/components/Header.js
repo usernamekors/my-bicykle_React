@@ -47,7 +47,9 @@ class Header extends Component {
             <div>
                 <header style={myStyles}>
                     <h1 style={stylesText}>{this.props.text}</h1>
+
                     <p style={stylesParagraf}>Free tips for riders</p>
+
                     <a href="#button" style={stylesLink}>{this.props.button}</a>
                 </header>
 

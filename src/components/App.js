@@ -3,6 +3,9 @@ import Navigation from './Navigation';
 import Header from './Header';
 import Services from './Services';
 import Equipment from './Equipment';
+import Account from './Account';
+import Word from './Word';
+
 
 class App extends Component {
   render() {
@@ -12,6 +15,8 @@ class App extends Component {
         <Header text='Powder bikes' button='Find Out More' />
         <Services />
         <Equipment />
+        <Account />
+        <Word />
       </div>
     );
   }
