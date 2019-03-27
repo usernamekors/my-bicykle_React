@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/my-bicykle_React/static/media/header.64442bbf.jpg"
   },
   {
-    "revision": "ccb54623fb51fd2fd162",
-    "url": "/my-bicykle_React/static/css/main.b44256c1.chunk.css"
+    "revision": "be41f49a80870211fe13",
+    "url": "/my-bicykle_React/static/css/main.c71d0c4e.chunk.css"
   },
   {
     "revision": "6e5efd12309f5b7009a4",
     "url": "/my-bicykle_React/static/js/runtime~main.72778053.js"
   },
   {
-    "revision": "0468f5f7155d697fe7f9",
-    "url": "/my-bicykle_React/static/js/2.d3960c6a.chunk.js"
+    "revision": "c2caf6887edc44e23f85",
+    "url": "/my-bicykle_React/static/js/2.8cc84c3d.chunk.js"
   },
   {
     "revision": "e063e14f66fb9e9b62974afadbdd7d5a",
     "url": "/my-bicykle_React/static/media/bicycle.e063e14f.jpg"
   },
   {
-    "revision": "ccb54623fb51fd2fd162",
-    "url": "/my-bicykle_React/static/js/main.417c93e0.chunk.js"
+    "revision": "be41f49a80870211fe13",
+    "url": "/my-bicykle_React/static/js/main.302ecc4c.chunk.js"
   },
   {
     "revision": "2a2b97db63330a15f7686f3ca971713c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/my-bicykle_React/static/media/snow-bike.720be740.jpg"
   },
   {
-    "revision": "7f0e217c983773d3385501ebbb886dc8",
+    "revision": "a6e01bb48b8e596448a2b620a0515b20",
     "url": "/my-bicykle_React/index.html"
   }
 ];
